@@ -1,0 +1,936 @@
+﻿575 OK VER 2.0;
+Portuguese (Brazil);
+Eae Piko, Tu tá atrasada mano!;
+Foi mal Nyan;
+Você não tem jeito andando com uma torrada,
+rápido, termine de comer e vamos logo.;
+Chomp, chomp, chomp.;
+Tudo pronto, vamos Senpai.;
+Ei! Você tem um pouco de geleia na sua bochecha.;
+Onde?;
+Aqui?;
+Não, na outra.;
+Eu não... Você pode limpar pra mim... Nyan-senpai? :3;
+M-mas;
+Nani?;
+Isso seria ser um b-beijo indireto!;
+Whoa, ei! Você ouviu isso?;
+JUMP!;
+18- ROCKS FALL DOWN;
+*Coff, Coof*
+
+Cê tá bem?;
+Não fica parada aí!
+Pega seu martelo e me ajuda a destruir essas pedras.;
+Show! Ultimo dia! Bora lá;
+Piko, esta proculpada com o teste final não?;
+Teste? Nem estudei, vou é quebrar a 
+cara de todo mundo e vencer a competição;
+Wow, confinça dahora ai em
+...pera um pouco...;
+Num foi tu que contruiu isso ai com plastico?;
+Mal posso esperar pra ver a cara deles!
+Eu vou ser a melhor ferreira hehe!;
+Você tá escutando o que eu digo?;
+Você falou alguma coisa?;
+Que?;
+Sinal tocou, corre! vamos chegar atrasadas!;
+31- TEACHER TALK WITH CLASSROOM, PIKO SLEEPING;
+Então classe...;
+OLHA ESSES RAIOS DE LUZ!;
+Woah!;
+Prestem atenção, hoje...;
+...;
+37-TEACHER THREW THE CHALK AT PICO AND THE CLASS LAUGHS;
+Kkk;
+Haha;
+Heh;
+Kek;
+...;
+Silêncio!;
+Ahem! Hoje é o dia do exame final de vocês!;
+Depois disso vocês deixarão de ser simples estudantes!;
+Vocês terão a oportunidade de forjar um novo futuro!;
+Agora vão! Boa sorte com o teste e me deixem orgulhosa !;
+E...;
+Piko, Nyan, quero falar com as duas depois da aula...;
+50- SMALL TEACHER TALK ;
+Certo. Nyan, você tirou a melhor nota!;
+Bom trabalho, nem precisa fazer o teste hoje;
+Ei, isso não é justo! Eu também não quero fazer o teste!;
+Piko, você está mal conseguil ser aprovada. 
+Você devia estar me agradecendo por ter arredondado
+ o último ponto 0,01, caso contrário você seria reprovada!;
+Além disso, já que ambos conseguiram chegar atrasada,
+ deixe-me explicar como funciona mais uma vez:;
+Após a prova de batalha, cada um de vocês viajará 
+para fazer um estágio ou lutar entre si pelo prêmio final.;
+Isso parece incrível! Qual é o prêmio final?;
+Macacos me mordam. Nem mesmo eu sei o que acontecerá 
+quando você encontrar o Mestre dos Ferreiros e for 
+abençoada pelo sagrado poder vermelho;
+Quando eu fiz meu teste, tive que ficar para seguir essa carreira.
+ Eu me pergunto quantos de vocês farão o mesmo?;
+De qualquer forma, ta na hora da prova. O teste vai ser feito na biblioteca;
+61-FIGHT WITH THE TUTORIAL BOSS;
+WOAH! Seu martelo brilha tanto! Quem é Você?;
+Vamos ver ... Você é Piko, certo?
+  Por favor, pegue seu martelo
+   é hora de começar o teste. ;
+Huh? O que você quer dizer?
+Eu tenho meu martelo bem aqui!;
+Hah, seu sobrenome é Piko usando um martelo Piko Piko,
+isso é engraçado!;
+Ahem, desculpe pelo meu comportamento, mas ...
+Você precisa pegar um martelo de verdade.;
+...               
+            Uhh...???;
+Ela vai mesmo usar e martelo de plástico?
+Oh meu...;
+Por que você está usando uma Piko Piko,
+um mero brinquedo infantil, como uma arma de ferreiro?;
+
+Você não tem honra? Você não tem vergonha?;
+Oh bem ... Não diga que eu não te avisei.
+  Mostre-me sua habilidade e não
+     venha chorando quando eu te derrotar!;
+72- AT THE FIGHT THE LIGHTS TURN OFF;
+Gah, que apagou as luzes?;
+?
+        TÁ TUDO ESCURO!;
+Tudo bem, eu resolvo isso!;
+Agh, meus olhos! Aponte isso para outra direção!;
+Vamos, vamos continuar lutando!
+  Vai ser muito mais emocionante
+    com as luzes apagadas!;
+Ugh, não tenho tempo para isso.
+  Piko, você fica aqui.
+    Vou checar com os professores.;
+Ei, eu tenho uma ótima ideia!
+Vou checar a sala do gerador!;
+Qual é o problema com essa garota ?!
+  Seu martelo não me causou nenhum dano!
+         Poderia ser...?;
+
+
+E ... o que é esse dokidoki que estou sentindo no meu peito ...?;
+O que aconteceu aqui? Onde é está a escola?;
+Eu só espero que todos estejam bem ...;
+Mas desta maneira eu nunca vou ...;
+Não se preocupe Piko, esses terremotos
+acontecem o tempo todo;
+Além disso, seus colegas de escola são durões.
+Tenho certeza que eles estão bem.;
+Mas ... eu nunca vou me formar assim! ;
+Com é que é?... É com isso que você está preocupada ?!
+;
+89- player and military girl (German tank girl appears);
+Was für eine Überraschung!;
+EI VOCÊ! Você que fez isso com a nossa escola?;
+Könnten Sie das bitte wiederholen?;
+Piko, espere!
+    Eu acho que ela é a estudante transferida ...! ;
+94-AFTER TANK FIGHT;
+HAHA! VITORIA!!;
+Espere um minuto, ela não é uma veterana?
+Isso significa que... eu passei no teste?
+Então posso me formar agora que eu derrotei ela? ;
+Heh ... Piko o que é isso no chão ?;
+?
+       [Terceiro ano, estudante transferido]; 
+O que ... Acabei de bater em uma criança?
+..B-mas ... ela tinha um tanque ... ;
+Jezzzz Espero que possamos encontrá-la para se desculpar;
+101- PIKO  THE CITY TEACHER;
+Olhe Piko, é a professora;
+Oii, Tia... digo, Professora!;
+Ah ... Oi Piko,
+             Alguém roubou o Martelo Sagrado da Escola; 
+Temos que encontrá-lo antes que seja tarde demais ...;
+?
+    SILENCIO !!!;
+TUDO QUE DISSER SERA USADO CONTRA VOCÊ;
+VOCÊ ESTÁ SENDO PRESA LEI:
+          2.848 / 40 163; 
+DESTRUIR AS CONTRAPÇÕES MECÂNICAS
+       DE UTILIDADE PÚBLICA;
+Mas, mas;
+
+VOCÊ DEVE SER REALOCADA PARA A
+    PRISÃO DOMICILIAR NA CIDADE SUBTERRÂNEA ;
+112- FIGHT WITH THE MOTOHAMMER GIRL;
+Humpf ... O que é cabeça de espaguete e o cachorro fofinho
+estão fazendo aqui?;
+Ei ... eu não sou um cachorro, sou meio raposa;
+Mas os cães são tão fofos!;
+?
+            Ehhhhh???? ;
+Não importa ... O que te traz as 2 aqui ?;
+Eu preciso de algumas peças do mercado negro para hackear
+elevador para a cidade subterrânea;
+... Ela realmente acha que eu sou legal o suficiente para ter isso?
+    ... Meu treinamento finalmente valeu a pena!
+              heh he hehennn; 
+Hehe, você está com sorte, eu vou te dou as peças se
+você...
+brinca..r ..., * cough *, brigar comigo.;
+Prepare-se para ser STOMPADA;
+122-TOMATO GIRL;
+OLÁ;
+EHHH?;
+VOCÊ É UM NINJA?;
+???;
+Não se faça de idiota comigo;
+Você teria escorregado antes de chegar aqui!;
+Isso são cascas de banana no chão?;
+NÃO TENTE ME ENGANAR;
+AS BANANAS DEVEM ESTAR QUEBRADAS;
+!;
+E... ela realmente escorregou ...;
+134- WATER GIRL;
+Que golfinho esquisito! Está tudo bem amiguinho, ainda podemos ser amigos!;
+Por que você pode conversar debaixo d'água? E por que eu posso fazer isso também?;
+Um golfinho falante! Que adorável! Venha me abraçar, meu amigo peludo !;
+Hum ... Você entendeu errado, senhorita. Eu não sou um golfinho, veja ...;
+Wha...Então você deve ser um desses sujos moradores da superfície! ;
+
+Jogando seu lixo aqui e ali, tratando o oceano como sua lata de lixo!;
+POR QUE VOCÊS NÃO DEIXA O MAR EM PAZ?!;
+142- PIKO ELEVATOR;
+YAY funcionou!
+      Vamos salvar Tia-Professora, Nyan;
+Ehhhhhhhh ... ... ... ... ;
+O que foi?;
+Eu ... eu ........
+     EU TENHO MEDO DE ALTURA!;
+Não se preocupe, tolinha! Olha,
+é perfeitamente seguro!; 
+Veja?;
+149- NEKO DOCTOR;
+WOW!!;
+...;
+Quanto lixo bom aqui;
+...Espere um pouco;
+É UMA GAROTA;
+Ah não... O que fazer...;
+Sera que ela está... mo-morta?;
+Eu não posso encostar em um corpo morto!;
+Preciso encontrar uma vareta...;
+Pera...;
+ELA ESTÁ RESPIRANDO!;
+DR NEKO AO RESGATE;
+Ai meu deus do ceu...;
+Um pouco de remedio...;
+E pra dar sorte...;
+UMA CALCINHA DE CHAPEU!;
+166- PIKO WAKES UP;
+Ehh, minha cabeça...;
+Ehhhn?...;
+Oii!!!;
+Diosmio! Quem é você?;
+Oh, é assim que você fala com sua salvadora?;
+...Que?;
+Pobrezinha, deve ter batido com a cabeça muito forte.;
+Olha ela toda doida com os olhos rodando;
+Ta me chamando de doida?;
+Saiba que a pancada na cabeça só esta me fazendo sentir cheiro de morangos no ar.;
+Fora isso, to perfeita!;
+Perfeitamente doida, isso sim!;
+Putz.. Foi você que me salvou então?;
+SIM!! DOUTOR NEKO sempre ajuda seus pacientes! Ele até lhes dá chapéus grátis!;
+Obrigada então...;
+Espera um pouco...;
+Uma CALCINHA?;
+minha favorita da moranguinho;
+Aqui, você sofreu tantos danos cerebrais que você esqueceu seu martelo;
+186- NEKO THROW THE HAMMER;
+Doeu!;
+188- PIKO  FOUNDS THE TEACHER HAUSE;
+Você é doida, maluca? O que você está fazendo na casa da professora?;
+
+Tenho certeza que o professora não se importa;
+Nossa, aqueles golpes em sua cabeça lhe causaram uma concussão ou algo assim? Todo mundo sabe que você não pode trabalhar no mundo exterior se você vive no subsolo!;
+
+...Por que você está olhando assim para mim?;
+Coitadinha, provavelmente nem tem amigos.;
+Pronto, somos amigas agora!;
+?  EHHHHHHHHHHHHHhhhhhhhhhhhhhhhh??;
+
+Ela está tão feliz que está em estado de choque;
+Deixe-me acordar a professora, ela vai explicar tudo!;
+Oh doida... Ela está dormindo que nem coco na arvore.
+Eu não acho que você será capaz de acorda-la ... 
+Mas eu tenho uma ideia!;
+Vamos fazer um acordo: você me traz alguns bagulhos 
+e eu preparo um novo lote de biscoitos.
+Isso com certeza vai acorda-la!;
+...Se você diz!;
+E não sou doida... meu nome é PIKO!;
+Ela já saiu do quarto ...;
+-203- PIKO TALKS TO THE OLEGUINHA THEN THE TRASH ROBOT APEARS;
+Oi estranha!;
+Quer comprar uma paradinha;
+Ah é a cabelo rosa;
+Se me ajudou com a
+porta da ultima vez;
+Deixa eu te ajudar dessa vez;
+...;
+TOMA ESSA! PORTA!;
+GRRRRRAAAH;
+Calma Fruggles!;
+GRYAAAAhh;
+GRYAAAAhh;
+Gente estranha em...;
+Veja, eu te disse que abriria a porta;
+E obrigado a bater nesse mendigo para mim;
+Eles são os dois que me venceram;
+Agora...;
+Hora de dormir...;
+ZZZZZZZzzzzzzzzZzz;
+-222 -NYAN / PIKO 
+Reencounter part 1;
+-223 - NYAN FALL OFF WITH A ROBOT, THEN JUMPS AND HUGS YOU;
+EHHHHHHHHHHHHHhhhhhhhhhhhhhhhh??;
+Aí está você! Eu senti tanto sua falta!;
+Eu ... também ... ugh, não posso ... respirar ...;
+CONTINUA ABRAÇANDO;
+Eu estava tão assustada! 
+Então eu tentei juntar algumas peças mecânicas para fazer um robô ...;
+Eu encontrei uma broca! E um laser! Então explodi túneis na terra!;
+230-ROBOT MISSFUNCTION;
+Ah não! Deu pau na CPU...!;
+CORRE!;
+233- THE ROBOT GO CRAZY;
+234-NYAN / PIKO 
+Reencounter part 2;
+235- THE ROBOT APPEARS;
+Oof...;
+Acho que conseguimos escapar ...;
+
+Sim, eu já posso ver a saída;
+Cara, ainda não acredito que você me encontrou !;
+E eu sei onde a professora está, talvez ela possa nos ajudar a chegar à superfície!;
+Hm ... Eu me pergunto se eu posso construir um novo robô com um pouco desse lixo, e então ...;
+Não! Não mais robôs, por favor. Esse é o segundo robô assassino que tive que enfrentar na memória recente!;
+Segundo? Quer dizer que ela tem outro?;
+244- PIKO GO TO THE FIRE BOSS TO GET A STOVE FOR THE COKIES;
+Olá, senhorita Cabelo Brilhante. 
+O que traz você para o meu
+  poços de fogo humildes?;
+Que cheiro é esse? Está queimando alguma coisa?;
+
+Isso seria meu martelo de lava! Cheira bem, né?;
+Eita ... Como ela segura essa coisa?
+sem se queimar?;
+Uh, eu estou procurando um mini fogão de lava...
+Você viu algo assim por aqui?;
+O que, tipo este aqui?;
+Sim! Posso pegar emprestado? Por favor, me emprestada ai;
+Hmm ... Talvez se você me mostrar o seu FOGO INTERIOR
+Vou deixar você pegar emprestado o fogão. ;
+...Meu o quê?;
+Você sabe, sua força! Sua vontade de ficar grandão   
+que permite vencer qualquer desafio!
+     Eu preciso ver por mim mesmo
+       se você quiser que eu seja de alguma ajuda. ;
+Sei lá, eu acho que sou muito forte!
+  Eu derrotei um monte de inimigos,
+    isso não conta para alguma coisa?;
+A força não vem da vitória.
+  Seus problemas que desenvolvem suas forças.
+    Quando você passa por dificuldades e
+      decida não se render!;
+
+ISSO É FORÇA;
+
+         PIKO SENTE DETERMINAÇÃO;
+Deixe-me mostrar a você como essa luta é real!
+Vamos chamar isso de ... heh ... ;
+A SUPER MEGA PROVA DO FOGO.. tipo isso
+         Prepare-se, aqui vou eu!;
+228;
+262-YOU BRING THE INGREDIENTS TO THE NEKO GIRL;
+Hei.. melhor amiga  ;
+Uh, oi ...?;
+Eu fui e consegui tudo o que você pediu, você pode fazer os biscoitos agora?;
+Açúcar ... ok!;
+Farinha ... ok!;
+Bagulho totalmente não suspeito ... ok!;
+Este fogão é um pouco quente demais. Nós vamos precisar de um novo.;
+Ah, vamos! Isso foi difícil de encontrar;
+Uau, você é péssima em cozinhar! Não seja assim, vamos lá. Até te deixo escolher a receita!;
+1. Misture a farinha, os ovos e asse a 300ºF por 30 minutos;
+2. Taca tudo na panela tudo e ligue o calor !;
+274- TEACHER INSIDE HOME TALKING;
+?
+      Ruídos mastigando ;
+Obrigado pelos biscoitos, como você cozinhou isso ?;
+
+Eu peguei o reator de fogo de Yutaka no núcleo de lava!
+;
+Piko, por que você insiste em usar aquele estranho martelo de plástico?
+ É um brinquedo! Para as crianças!
+;
+E por que você insiste em ser tão CHATA o tempo todo ?! Hmph !;
+Suspiro ... Yutaka te deu o núcleo?
+;
+Oh, ela emprestou para mim depois que eu bati nela;
+O quê? Derrotou ela com essa coisa de plástico que você chama de martelo? Sério?
+Você é cheio de surpresas, Piko. Nós vamos fazer um ferreiro de você ainda!;
+Heheh!;
+Aqui eu tome este cartão. 
+Basta apresentá-lo no departamento e você pode estar na competição final!;
+Agora chegue mais perto e deixe-me mostrar-lhe 
+meu super ultra B.I.S.C.O.I.T.O TECH (TM) !;
+286-TEACHER EXPLAIN THE COOKIE THING;
+Você já parou para pensar sobre o...;
+FUTURO??;
+COM ESTA TECNOLOGIA POSSO TELEPORTAR AS PESSOAS PARA ONDE QUISEREM!;
+MAS MESMO QUE SERIA MUITO FÁCIL ...;
+
+CONTEMPLE!;
+O;
+NEON;
+FUSÃO!!;
+Ahem... Acho que exagerei;
+Desculpe, não poderei nos teletransportar para o departamento;
+Há energias estranhas bloqueando nosso caminho;
+
+Você pode levar meu cartão especial embora! E eu atualizarei seu CookieMap para você;
+ 299-ICE VN ;
+Ah sim, você veio. Eu estive esperando por você ... Hm ...;
+...Piko?;
+Sim, Piko. Eu já sabia seu nome. Ommmm…;
+
+... O que você está fazendo nas montanhas de gelo?
+ Você não deveria estar nos poços de lava?;
+
+Isso não é verdade. Minha família e meus poderes podem ser de fogo, mas…;
+
+Minha herança não define quem eu sou;
+
+CONTEMPLE! Eu me tornei um ICEKINI, O SÁBIO DO GELO !;
+Certo. Parabéns por expressando suas ideias pessoais 
+e tudo mais, mas você tem algo que não pertence a você;
+Devolva o Reator de Gelo que você roubou!;
+Você nunca entenderá meu sofrimento! 
+Vivendo em num canto quente que num uns inferno,
+com uma família de fogo e odiando a comida quente…;
+... EU SÓ QUERIA COMER SORVETE !;
+311- DEPARTAMENT ;
+Yay! A fila finalmente acabou, hora de pegar meu certificado!
+;
+Boa tarde, senhorita, deixe-me verificar o seu passe ...;
+
+…;
+
+Eu preciso que você assine aqui ... Lá ... Aqui novamente ...;
+
+Apenas uma verificação final e…;
+
+…;
+
+... Você ESTÁ PRESA por ASSALTAR uma estudante de transferência da terceira série;
+
+Ehh Mas ela tinha um enorme tanque!
+;
+Diz aqui que era um tanque de brinquedo! Você não tinha motivos para atacá-la como você fez!
+;
+Mas, mas…;
+
+GUARDAS !! LEVE ELA!!;
+323-NEKO NINJA;
+O que...? Um ninja?
+;
+Surpresa! Seu melhor e única amiga, que é meio triste quando você pensa sobre isso, vem em seu socorro!
+;
+Não fique aí parado, prenda os dois!
+;
+OBJEÇÃO!!;
+
+EH???;
+
+EH???;
+
+Piko não agrediu ninguém! Ela estava apenas jogando, e eu tenho PROVA!
+;
+Como ela poderia atacar alguém sem uma arma? ;
+
+Olhe atentamente para o seu martelo, é apenas um brinquedo! ;
+
+Ora, duvido que você possa ferir uma mosca com essa coisa ai!
+;
+... tudo bem. 
+Não houve agressão, o martelo é apenas um brinquedo, 
+tome chave para o teste;
+
+Eu só estou fazendo isso para se livrar de vocês dois, você está começando a segurar a fila! Agora vá embora, tenho trabalho a fazer;
+336- TANK COLISEUM;
+Yooo! o que é nãolembroseunome-chan !;
+
+Eu não sei como pronunciar o seu nome ... Heh, desculpe!
+;
+Palim, palim !;
+
+Você parece soa com raiva ... É por causa do tanque? 
+Desculpe por isso também ...;
+Você me derrotou da última vez, mas nós temos muitos tanques na Pátria! 
+E Muitas, muitas caixa de miojo para cada criança com fome !;
+Jetzt mal Butter bei die Fische!;
+Agora eu te derroto com uma arma de sua própria pátria: o Hummer !!;
+Deus, outro duelo de martelo? 
+Mas eu não quero lutar, quero ir para casa e jogar o novo jogo Bakudas!;
+Wir sind ja nich aus Zucker!
+
+Achtung!;
+346- BIG HAMMER COLISEUM;
+Bem, bem, se não é a pequena senta na cadeira 2
+Dorme-Todo-Dia Piko ela mesma !; 
+
+... Quem é você mesmo?;
+
+Eu estive procurando por você!
+Estou surpresa que você chegou até aqui;
+Eh? ... Espere, você é um stalker?
+;
+Espere, não! É só que ... eu sou como você, tipo...;
+
+Você está me assustando, mano;
+
+Você acredita que seu martelo de plástico é o melhor,
+e as pessoas pensam que você é boba por causa disso;
+E você é boba, porque ...;
+
+Quanto maior o martelo ...;
+
+O mais forte BATE !!;
+357-FAKE CREDITS;
+-----358-EVERYTHING EXPLODES--;
+Os martelos, eles pararam de funcionar!;
+As TVs pararam de funcionar! O que está acontecendo?;
+361-TEACHER TELEPORTS;
+Rápido, Piko! Não há tempo para explicar!;
+Minha casa não deveria estar aqui, nós nem fizemos nada!;
+Eu não entendo, a energia Neon não deveria parar o teletransporte?;
+Deveria, mas... Não poder ser...;
+A energia de Neon parou de funcionar...?;
+Piko! Nós devemos encontrar os bandidos que roubaram o Martelo Sagrado!;
+Eles são capazes de controlar a energia de Neon agora!
+Sem a energia, nós não temos martelos, e sem martelos...;
+Nós não temos esperança...;
+Meu martelo ainda funciona direito!;
+...É isso! O seu martelo não usa nenhum tipo de energia!;
+Piko, você é a ÚNICA capaz de nós salvar!!;
+O QUEEEEEE?!;
+O QUEEEEEE?!;
+Eu sou... Eu sou a heroína agora?;
+Não a heroína que nós queremos, mas a heróina que nós precisamos!;
+Não há tempo. Vou rastrear a eneria! Nós encontraremos aonde esses bandidos se escondem!;
+Me siga!;
+379- INSIDE TEACHER ROOM;
+Eu atualize o o CookieMap;
+Mas esse lugar... ele me da calafrios!;
+Bem, boa sorte!;
+383-CYBER ROBOT GIRL;
+Olá!!;
+Bem, isso é novo. Como você conseguiu contornar meu firewall?;
+Isso foi fácil, eu só tive que bater bastante nas portas! O código é DRW-R - R - 1 !;
+Finalmente, alguém conseguiu descobriu!;
+Ahn?;
+Até agora, você é o único humano a vir aqui! O único digno de ver ...;
+MINHA TRANSFORMAÇÃO DE GUERREIRA MÁGICA!!;
+O que está acontecendo? Ela está... se transformando?!;
+392- ROBOT GIRL ROTATES AND FAILS;
+Pretendia fazer isso. 100%. Grande sucesso.;
+Uau, você quase me matou!;
+Não se preocupe, nós  estamos no ciberespaço. Nada pode te matar aqui.;
+Aqui, pegue esse projetor de luz como prêmio. Eu assinei e tudo mais!;
+Espero que gostou o show! Vejo você logo!;
+398-GRAVE BOSS FIGHT;
+Nos de de volta o Martelo Sagrado, seu monstro!
+Você não pertence a esse mundo!;
+Não é pela minha mão que sou despertado do sono.
+Eu estava curtindo um descanso tranquilo, mas minha quieta
+sepultura foi perturbada por ... humanos
+com televisores estranhos como cabeças;
+O que você está falando?!
+VOCÊ roubou o Martelo e então
+tudo parou de funcionar!;
+Como você pode!;
+Eu não tive escolha!;
+Sempre existe uma escolha.
+Você continua fazendo a errada.;
+E quem você é para me dar lição?!
+Eu vou escolher o que bem me agradar, e
+NADA PODE ME PARAR AGORA! MUAHAHA!;
+Tudo bem, chega disso.
+É hora de bater em você com o meu Martelo!;
+O que é um martelo?
+Uma ferramenta miserável da classe trabalhadora...
+Mas chega de conversa, tenha em--;
+HORA DO MARTELO!;
+409-TRIO BOSS;
+Hm ... Glifos antigos ...?
+;
+Parece um beco sem saída, garotas. Alguém aqui consegue ler esses paredes antigas?
+;
+Oii, garota com o martelo brilhante dourado;
+
+O que ... Como você chegou aqui?
+;
+Eu poderia te perguntar a mesma coisa! Como você passou pela porta de energia?;
+Bem, se você deve saber, usei meus poderes de dedução e raciocínio logico para encontrar uma passagem secreta;
+
+Ela é a melhor, não é?
+;
+Tudo é apenas simples solução de problemas e reconhecimento de padrões!
+;
+Isso é meh. Eu cheguei aqui batendo em um monte de fantasmas e esqueletos! Muito mais legal;
+
+Essas coisas nem existem!
+;
+Eu concordo, 100% improvável!
+;
+Fan... fantasmas?;
+Aw Beth, tudo bem! Não deixe que esse idiota engane você, não existe fantasmas !;
+
+Ei, Beth? São esses glifos que você estava falando?
+Eles parecem dizer algo ao longo das linhas:
+Apenas um único mestre ferreiro pode entrar nesta sala ... ; 
+
+Mesmo? Quão conveniente! 
+Eu estava apenas procurando por uma desculpa 
+para ter uma revanche com a tola Piko aqui!
+;
+Ei, pare de me chamar assim;
+
+Vamos, tola! Vamos acabar com isso, uma última luta antes da última porta!;
+427- FINAL DOOR OPENS;
+Você! Como você...?!;
+
+É o poder da AMIZADE, tola!;
+
+Ugh, não é assim que deveria ser!
+ Minha família tem o título de Mestre Ferreiro 
+por gerações, não posso ser a única a falhar;
+
+Pfft, quem se importa com títulos familiares? 
+Você deve fazer o que quiser, não o que sua família exige de você ...;
+
+Apenas acredite em seu coração!
+;
+Acreditar no meu ... coração ...;
+434-TEACHER END;
+Nani?!;
+
+Ohh, é Piko! Eu realmente não achei que você fosse chegar tão longe!;
+
+Bem, pelo menos você provou ser uma distração adequada ...;
+
+Você chegou a tempo de ver minha CRIAÇÃO FINAL!!
+;
+O fim da Era Vermelha do Martelo está próximo;
+
+Então você foi o mestre ferreiro todo esse tempo!
+;
+PONTO NEGATIVO PRA VOCÊ!;
+
+O que?;
+
+Estou simplesmente aqui para fazer a sociedade ultrapassar seus limites naturais! 
+A Fusão de NEON é a chave para isso!
+;
+Mas e a energia Neon? Todos os componentes eletrônicos pararam de funcionar ...;
+
+Tudo era falso ... Até meus óculos ...;
+
+SÃO FALSOS !!;
+447-THE TEACHER TROWS THE GLASSES AT THE COMPUTER AND THE FIGHT BEGINS;
+Poderia ser...? Estou sendo derrotada?
+;
+Acabou, sensei!;
+NÃO! Não é assim que funciona!
+;
+Sem mais mentiras, tia!;
+Estou terminando isso e indo para casa.
+ Estou cansada, estou com frio e quero ir dormir;
+ Eu vou desligar o interruptor e desligar tudo!;
+FIM?;
+455- TRUE END part 1;
+Oh, garotinha, você parece estar perdida!;
+Ei tia do rolê!;
+Pare de me chamar de velha! Como que você chegou num lugar como esse?;
+Esse é o meu Lugar Divertido! Eu pego todos os doces da cidade! Não, todos os doces do UNIVERSO!!;
+Isso não é bom, açucar faz mal pra você! Você vai ganhar uma dor de dente!;
+Eu posso fazer qualquer coisa! Qualquer coisa, mas eu preciso imaginar! Até árvores de melancia.;
+O que há com esse lugar? O CookieMap está ficando louco!;
+...Você está fazendo isso?;
+Isso é fácil, tudo o que eu tinha que fazer era fazer todos acreditarem que existia um Mestre Ferreiro, 
+então eu manipulei todos os martelos deles e ROUBTEI TODA A ENERGIA EXISTENTE!!;
+Mas o seu... O seu martelo é diferente. Algo falhou quando eu tentei controlar ele...;
+Isso é porque eu mesma que fiz com AMOR e CARINHO!;
+É um brinquedo então! Eu vejo, você prentende usá-lo para brincar!;
+Junte-se a mim! Vocês simplesmente brincar, pra sempre!;
+469-TRUE END part 2;
+Então você foi quem roubou o Martelo Sagrado esse tempo todo.;
+Sagrado o que agora? Do que você está falando?;
+Bah, não importa! Eu vou desligar isso tudo e acabar de vez com isso!;
+DESCULPA PIKO, INFELIZMENTE EU NÃO POSSO DEIXAR VOCÊ FAZER ISSO.;
+474- THE GIANT ROBOT APPEARS AND GRABS THE BALLONG GIRL;
+EI, ESSE NÃO ERA O ACORDO! VOCÊ ROUBOU!;
+EU SIMPLESMENTE FIZ COMO FOI ESTIPULADO
+VOCÊ TER SIDO MANIPULADA FOI INFORNTÚNIO CAUSADA POR VOCÊ MESMA.;
+MAS SUA MENTE GENIAL É MAIS ÚTIL
+EU DEVO TER MAIS TRABALHO PRA VOCÊ EM BREVE.;
+COM A ENERGIA DO MARTELO SAGRADO, EU SOU...;
+01001001 01001110 01010110 01001001 01001110 01000011 01001001 01000010 01001100 01000101;
+480-TRUE END FINAL PART;
+ISSO NÃO PODE SER! COMO ESSE BRINQUEDO DE PLÁSTICO FOI CAPAZ DE NOS DERROTAR?!;
+Ugh, estou cansada de ouvi vocês pessoas chamando de brinquedo de plástico!
+Você não pode ver o coração brilhando no meio?
+Ele é feito de energia sentimental de Neon.;
+SENTIMENTOS...?;
+484-PIKO HAMMERS STARTS TO GLOW, WHILE EVETHING IS FALLING APART;
+Piko, corra!;
+HA! EU NÃO POSSO CORRER, EU SOU A HEROÍNA! NÃO A QUE VOCÊS QUEREM, MAS A QUE VOCÊS PRECISAM!;
+Isso é imbecil e meio legal, eu acho;
+488-EVERYTHING EXPLODES, PIKO GOT TELEPORTED TO HER HOUSE, THEN FALLS AT THE TOP OF NYAN;
+Ai! Piko! O que você está fazendo? Como você chegou aqui?;
+Eu não sei, eu explodi algumas coisas, então havia um robo giante... E uma garotinha que controlava nossas mentes, e então...;
+Uau, calma! Tava legal no começo, mas agora já virou muito fanfic!;
+Não é fanfic! Eu juro!;
+493- END TEXTS APPEARS ;
+...E NINGUÉM EXATAMENTE LEMBRA O QUE PIKO FEZ;
+------495----------;
+496- NPCS;
+Rápido, Piko! Não temos tempo para perder!;
+Por que não??;
+Sua casa é muito fofa!;
+Obrigado... hehe;
+Eu trabalhei duro construindo isso!;
+EI! PARA DE TENTAR ME ENGANAR!;
+Hehe, você parece engraçada quando está irritada!;
+Hora de ir, nós temos uma graduação para ir!;
+EI, PARE DE PULAR NA MINHA CAMA!;
+506-OTHER NPCS;
+Você está esperando o quê?;
+
+O teste está esperando por você na biblioteca!;
+509-OLEGUINHA;
+O QUÊ?!;
+
+EU PERDI A LUTA PARA UM MENDIGO!;
+
+Agora vou ter que morar nessa droga de subsolo!;
+
+Desculpa por incomodar você com essas coias estranhas;
+
+Eu não consigo abrir esta droga de porta!;
+
+--------515--;
+
+UOU!;
+
+Você abriu a porta!;
+
+TO TÃO CANSADA!;
+
+Bom, vou tirar um cochilo agora!;
+
+ZZZZZZZZZzzzzzzzzzz;
+Oi!;
+
+Você pode me ajudar a pegar esse balão?;
+
+523--;
+
+Esse não era meu balão mesmo,;
+
+Estava só olhando;
+Oi moça;
+
+Vamos brincar!;
+
+Você encontrou minha irmã?;
+
+Teehee;
+
+Vamos brincar de pique-pega!;
+
+Vamos brincar de polícia e ladrão!;
+
+532--;
+
+Ei, moça ruiva!;
+
+Você é mesmo boa em pique-pega!;
+
+Vamos brincar de novo qualquer hora!;
+536-ROBOT NPCS;
+01001000 01000101 01001100 01001100 01001111;
+
+BEEP;
+VÁ PARA CASA, CRIANÇA!;
+
+NÃO HÁ NADA PARA VER AQUI;
+
+!!!!!!!!!!!!!!!!!!!!!;
+542-ELEVATOR;
+ACESSO INVÁLIDO 00110100 00110010 @#$#@! &)(... ...;
+
+
+CHECANDO O CIRCUITO CO)(*&D#*%@4 ...;
+FINALMENTE!;
+
+Minha bicicleta estava presa aqui por muito tempo...;
+
+Você pode me ajudar?;
+------------548-------;
+Ei, você é bom pescando, certo?
+;
+Eu perdi minha bolsa no fundo desse lago;
+
+Você pode pescá-la pra mim?;
+---552---------------;
+Olha, ela está sonhando com pessoas cookies!;
+
+ZZZZZZZZZ zzzzzzzzz zzz,,,;
+
+
+Professora-sensei! Nós fizemos cookies!;
+
+
+Ela... ela não está respondendo...;
+--------------557---------;
+Você finalmente acordou;
+
+Bom ver que você está bem!;
+
+Essa chapel da sorte realmente ajuda, né?;
+
+Hehe;
+--------------562--------;
+EI!;
+
+Preciso de açúcar, flúor e...;
+
+Qualquer coisa para colocar nos cookies!;
+Não olhe para mim;
+
+Eu sou apenas um robô velho sentado neste lixo;
+----568----;
+QUE DECEPÇÃO;
+
+Nós até vendemos a casa por este grande robô! ...Fruggles;
+
+grrrr...;
+
+Mas agora nós vamos fazer um ROBÔ MELHOR;
+
+E;
+
+MAIS LEGAL;
+
+E aí o jogo irá começar de verdade!;
+--576--;
+Porta trancada!;
+Ish, cade minhas chaves?;
+Talvez, se eu tentar foçar a fechadura?;
+0101 SEGURANÇA COMPRO0-M3TIDA!;
+ATIVANDO TRAVA DE TERMINAL!;
+Obrigado pela ajuda OwO;
+Amizade com cidadãos aumentada!;
+Ah, estou tão cansada dessas lutas celestiais...;
+Agora vou é viver como um fazendeiro de ILHAMAS!;
+Elas tem cheiro de chiclete!;
+MISSING BOSS TALK;
+Nâo tenho circutos... mas;
+Aqui, pega;
+MEGA FURADEIRA GIGANTE;
+Bela luta aldeão;
+Como premio, lhe darei:;
+Um forninho de NEON;
+Vou desativar a segurança, só um momento..;
+Invasores detectaados!;
+O que fazem no meu dominio?;
+Acho que esse não é o caminho da escola..;
+Estamos perdidas?;
+PREPARADA?;
+Veja, não somos malvadas...;
+OwO, tão peluda e macio;
+Espera ai, quero continuar te abraçando!;
+Perdi novamente...;
+MENU;
+Arquivo 1;
+Arquivo 2;
+Arquivo 3;
+Arquivo 4;
+Resolução:;
+(CIMA / BAIXO);
+TAMANHO ;
+TELA CHEIA;
+VOLUME DO AUDIO;
+(ESQUERDA / DIREITA);
+LINGUAGEM (F2);
+APERTE START;
+NOVO JOGO;
+CARREGAR JOGO;
+RUSH DE BOSES;
+CREDITOS;
+SAIR;
+SELECIONE;
+CANCELAR;
+VOLTAR;
+LEVEL UP;
+INGAME MENU;
+MEDALHAS;
+MAPA;
+OPÇOES;
+STATUS;
+VOLUME MUSICA;
+PLAYER COMANDS;
+PULAR;
+PULO DUPLO;
+ATAQUE 1;
+ATAQUE 2;
+COMBO;
+ATAQUE CARREGADO;
+ATQ CARREGADO NO AR;
+USAR ITEM / SKILL;
+DASH;
+ATAQUE NO AR;
+ATAQUE ESPECIAL;
+PLAYER COMANDS;
+CIMA;
+ESQUERDA;
+DIREITA;
+BAIXO;
+AÇÃO;
+← VOLTA ITEM;
+→ PROX ITEM;
+EDITAR COMANDOS;
+RESETAR COMANDOS;
+APLICAR E SAIR;
+MOVER;
+EDITAR TECLADO;
+EDITAR CONTROLE;
+APERTE O: ;
+BOTÃO;
+BOTÃO EM USO!;
+RESETAR TECLADO;
+RESETAR CONTROLE;
+NYAN;
+FURADEIRA;
+FOGO;
+GELO;
+ELETRICIDADE;
+ESCUDO;
+BLASTER;
+COMPRAR;
+VENDER;
+OURO;
+EXCLUIR;
+SIM;
+NÃO;
+
+
